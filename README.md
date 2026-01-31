@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isBooleanIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-boolean-index-data-type@deno/mod.js';
+import isBooleanIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-boolean-index-data-type@v0.1.0-deno/mod.js';
 ```
 
 #### isBooleanIndexDataType( value )
@@ -88,7 +88,7 @@ bool = isBooleanIndexDataType( 'bool' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isBooleanIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-boolean-index-data-type@deno/mod.js';
+import isBooleanIndexDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-boolean-index-data-type@v0.1.0-deno/mod.js';
 
 var bool = isBooleanIndexDataType( 'bool' );
 // returns true
